@@ -1,0 +1,20 @@
+.cta {
+  padding: 70px 20px;
+  background: #007bff;
+  color: white;
+  text-align: center;
+}
+
+.cta h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+
+  .cta h2 {
+    font-size: 24px;
+  }
+
+}
